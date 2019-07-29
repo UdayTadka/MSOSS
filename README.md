@@ -48,7 +48,7 @@
 
 ## Solution Architecture:
 
-![alt text](https://github.com/sysgain/MSOSS/raw/staging/images/1.png)
+![alt text](https://github.com/UdayTadka/MSOSS/raw/staging/images/1.png)
 
 This solution will deploy the following architecture:
 
